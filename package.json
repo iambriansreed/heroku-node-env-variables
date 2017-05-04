@@ -1,0 +1,26 @@
+{
+  "name": "heroku-node-env-variables",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://iambriansreed@github.com/iambriansreed/heroku-node-env-variables.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iambriansreed/heroku-node-env-variables/issues"
+  },
+  "homepage": "https://github.com/iambriansreed/heroku-node-env-variables#readme",
+  "engines": {
+    "node": "7.1.0"
+  },
+  "dependencies": {
+    "cool-ascii-faces": "^1.3.4",
+    "express": "^4.15.2"
+  }
+}
